@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/94404b4c51df8434a5e4f4056b9b06f9743ad5657011ec6b7f6844cd73c6b56f/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f77656273697465312e676966)](https://aryan7701.io)
+[![MasterHead](https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media)](https://kripanshsharma.io)
 <h1 align="center">Hi 👋, I'm Kripansh Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="Coding" width="436" src="[https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media]">
+<img align="right" alt="Coding" width="436" src="[https://dribbble.com/shots/16129138-Learn-Code-Illustration-3]">
 
 - 🔭 I’m currently working on **TravelExpi WebApp**
 
@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-agrawal-828444237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-agrawal-828444237" height="30" width="40" /></a>
-<a href="https://instagram.com/aryanagrawal7701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanagrawal7701" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/kripanshsharma8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kripanshsharma8/" height="30" width="40" /></a>
+<a href="https://instagram.com/_kripansh_sharma_?igshid=MzNlNGNkZWQ4Mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanagrawal7701" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
