@@ -1,4 +1,4 @@
-[![MasterHead](https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media)](https://kripanshsharma.io)
+[![MasterHead](fcf7fd0c619bb87706533079240915f3.gif)](https://kripanshsharma.io)
 <h1 align="center">Hi 👋, I'm Kripansh Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="436" src="[https://dribbble.com/shots/16129138-Learn-Code-Illustration-3]">
