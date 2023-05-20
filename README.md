@@ -1,4 +1,4 @@
-[![MasterHead](designer-developer.gif)](https://kripanshsharma.io)
+<img align="center" alt="Designer and Developer" width="1000" src="designer-developer.gif">
 <h1 align="center">Hi 👋, I'm Kripansh Sharma</h1>
 <h3 align="center">Pre-final year student at VIT Bhopal</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
