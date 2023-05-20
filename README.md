@@ -3,15 +3,15 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
-- 🔭 I’m currently working on **TravelExpi WebApp**
+- 🔭 I’m currently working on **Dental Image Segmentation**
 
-- 🌱 I’m currently learning **Google Data Analytics**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **MERN, Machine Learning**
+- 💬 Ask me about **Machine Learning, **
 
-- 📫 How to reach me **aryanagrawal1881@gmail.com**
+- 📫 How to reach me **kripanshsharma8@gmail.com**
 
-- ⚡ Fun fact **AS an CS engineer I loves to solve a problem. If there is no problem, then I will create one and would start solving it.**
+- ⚡ Fun fact **As an CS engineer I like to solve problems in creative ways, and can adapt to any change and gain a broader perspective in any field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
