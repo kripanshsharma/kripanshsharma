@@ -1,6 +1,6 @@
 [![MasterHead](fcf7fd0c619bb87706533079240915f3.gif)](https://kripanshsharma.io)
 <h1 align="center">Hi 👋, I'm Kripansh Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Pre-final year student at VIT Bhopal</h3>
 <img align="right" alt="Coding" width="436" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 - 🔭 I’m currently working on **Dental Image Segmentation**
