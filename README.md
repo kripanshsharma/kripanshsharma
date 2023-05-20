@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Dental Image Segmentation**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 💬 Ask me about **Machine Learning, Game Development**
+- 🌱 I’m currently learning **Applied Machine Learning, Flutter**
 
 - 📫 How to reach me **kripanshsharma8@gmail.com**
 
