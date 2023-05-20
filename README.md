@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Machine Learning, **
+- 💬 Ask me about **Machine Learning, Game Development**
 
 - 📫 How to reach me **kripanshsharma8@gmail.com**
 
