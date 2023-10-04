@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Applied Machine Learning, Flutter**
 
-- 📫 How to reach me **kripanshsharma8@gmail.com**
+- 📫 How to reach me **kripansh.work@gmail.com**
 
 - ⚡ Fun fact **As an CS engineer I like to solve problems in creative ways, and can adapt to any change and gain a broader perspective in any field.**
 
